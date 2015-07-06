@@ -1,3 +1,3 @@
 # VGP
-one-pass Vertex-cut balanced Graph Partitioning stand-alone application
+A software package for one-pass Vertex-cut balanced Graph Partitioning.
 
