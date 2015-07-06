@@ -1,0 +1,8 @@
+graphfile: example/sample_graph.txt
+parts: 4
+algorithm: hdrf (lambda: 3.0)
+
+Replication factor: 2.0
+Load relative standard deviation: 0.0
+Max partition size (edge cardinality): 2
+Max partition size (vertex cardinality): 3
