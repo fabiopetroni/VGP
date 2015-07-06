@@ -26,4 +26,4 @@ For a more in-depth discussion see the manual.
 
 #Example
 
-java -jar dist/VGP.jar example/sample_graph.txt 4 -algorithm hdrf -lambda 2 -threads 1 -output example/output  
+java -jar dist/VGP.jar example/sample_graph.txt 4 -algorithm hdrf -lambda 3 -threads 1 -output example/output  
