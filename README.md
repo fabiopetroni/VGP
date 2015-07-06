@@ -22,6 +22,8 @@ Options:
 - -output string  ->  specifies the prefix for the name of the files where the output will be stored (files: prefix.info, prefix.edges and prefix.vertices).
 
 
+For a more in-depth discussion see the manual.
+
 #Example
 
-java -jar dist/VGP.jar examle/sample_graph.txt 4 -algorithm hdrf -lambda 2 -threads 1 -output examle/output  
+java -jar dist/VGP.jar example/sample_graph.txt 4 -algorithm hdrf -lambda 2 -threads 1 -output example/output  
