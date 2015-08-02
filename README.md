@@ -7,7 +7,7 @@ Based on the publication:
 
 If you use the application please cite the paper.
 
-<p style='color:red'>HDRF has been integrated in [GraphLab PowerGraph](https://github.com/dato-code/PowerGraph)!.</p>
+HDRF has been integrated in [GraphLab PowerGraph](https://github.com/dato-code/PowerGraph)!
 
 ###Usage:
 
