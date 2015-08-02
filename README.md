@@ -7,6 +7,8 @@ Based on the publication:
 
 If you use the application please cite the paper.
 
+<span style="color:red;">HDRF has been integrated in GraphLab PowerGraph!</span>
+
 ###Usage:
 
 ```
